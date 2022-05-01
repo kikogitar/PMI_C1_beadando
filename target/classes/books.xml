@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Books>
+    <book>
+        <id>0</id>
+        <szerzo>afde</szerzo>
+        <cim>hzikendj</cim>
+        <oldal>526</oldal>
+    </book>
+</Books>
