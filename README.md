@@ -1,5 +1,5 @@
 # PMI_C1_beadando
-beadandő
+beadandó
 
 A program indításkor megpróbálja beolvasni az xml fájlt. 
 
